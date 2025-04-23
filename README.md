@@ -4,4 +4,4 @@
 Есть несколько веток 
 - main, она находится в самом изначальном состоянии, в ней ещё нет файлов лаб, но есть .editorconfig и .gitignore и .sln файл
 - feat/order-manager, пример структуры для лабы OrderManager
-- feat/dicitonary, пример структуры для лабы Dictionary
+- feat/dictionary, пример структуры для лабы Dictionary
